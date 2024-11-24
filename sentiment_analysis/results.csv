@@ -1,0 +1,6 @@
+Model,Accuracy
+XGBClassifier,0.8708011344417558
+Random Forest,0.8689407540394973
+Naive Bayes,0.8466942471313714
+Logistic Regression,0.8332162464548695
+Decision Tree,0.820974162828819
